@@ -8,3 +8,5 @@ It uses Food2Fork API from which recipes are fetched.
 
 Architecture is MVC-
 Model View Controller
+
+![Architecture MVC](https://github.com/SarveshtheAbstractor/Bon-Appetit/blob/master/img/Screenshot%20(21).png?raw=true)
